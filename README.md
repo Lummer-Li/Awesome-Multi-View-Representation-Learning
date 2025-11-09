@@ -272,7 +272,7 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 
 ## <span id="jump4">📁Datasets</span>
 Here's what we've got cooking in the data kitchen:
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>100leaves.mat</div></a>
+- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px;'>100leaves.mat</div></a>
 - <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>3sources.mat</div></a>
 - <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>ALOI.mat</div></a>
 - <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>ALOI100.mat</div></a>
