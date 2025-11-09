@@ -11,11 +11,11 @@ If you find this repository useful for your research or work, we would greatly a
 
 
 ## Catalogue
-- [What's Multi-view Representation Learning?](#jump1) 
-- [Surveys](#jump2) 
-- [Papers & Codes](#jump3)
-- [Datasets](#jump4)
-- [Citation](#jump5)
+- 🏊[What's Multi-view Representation Learning?](#jump1) 
+- 📑[Surveys](#jump2) 
+- 📚[Papers & Codes](#jump3)
+- 📁[Datasets](#jump4)
+- 🏷️[Citation](#jump5)
 
 --------------
 
@@ -23,7 +23,7 @@ If you find this repository useful for your research or work, we would greatly a
 Multi-view Representation Learning aims to capture the potential correlations, complementarity, and consistency among multiple features or modalities, and finally learn unified, robust representations through diverse learning strategies (e.g., supervised, unsupervised, self-supervised) combined with models like deep neural networks, which can support downstream tasks such as classification, clustering, and prediction.
 
 
-## <span id="jump2">Surveys </span>
+## <span id="jump2">📑Surveys</span>
 | Year | Title                                                                 |    Venue    |    Paper    |
 | ---- | --------------------------------------------------------------------- | :---------: | :---------: |
 | 2025 | **Deep Multi-view Clustering: A Comprehensive Survey of the Contemporary Techniques** |    IF   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S1566253525000855) |
@@ -46,9 +46,11 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 | 2017 | **Multi-view Learning Overview：Recent Progress and New Challenges** | IF | [![](https://img.shields.io/badge/-paper-blue)](https://shiliangsun.github.io/pubs/MVLoverviewIF17.pdf) |
 | 2013 | **A Survey on Multi-view Learning** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1304.5634) |
 
-## <span id="jump3">Papers & Codes </span>
+## <span id="jump3">📚Papers & Codes </span>
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2025 | **An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic Perspective** | **ESFMC** | ICML |  [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=eLkkXaPFEP) | [![](https://img.shields.io/badge/-code-red)](https://github.com/5Martina5/ESFMC) |
+| 2025 | **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance** | **FIMCFG** | ICML |  [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=7qvYLnJDRd) | [![](https://img.shields.io/badge/-code-red)](https://github.com/PaddiHunter/FIMCFG) |
 | 2025 | **Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios** | **AIRMVC** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=iFOXz5H2gB) |[![](https://img.shields.io/badge/-code-red)](https://github.com/xihongyang1999/AIRMVC)|
 | 2025 | **PROTOCOL: Partial Optimal Transport-enhanced Contrastive Learning for Imbalanced Multi-view Clustering** | **PROTOCOL** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=Pm8LUCx6Mb) |[![](https://img.shields.io/badge/-code-red)](https://github.com/Scarlett125/PROTOCOL)|
 | 2025 | **A Hubness Perspective on Representation Learning for Graph-Based Multi-View Clustering** | **hubREP** | CVPR | [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_A_Hubness_Perspective_on_Representation_Learning_for_Graph-Based_Multi-View_Clustering_CVPR_2025_paper.pdf) |[![](https://img.shields.io/badge/-code-red)](https://github.com/zmxu196/hubREP)|
@@ -85,8 +87,6 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 | 2025 | **Interpretable Multi-view Clustering** | **-** | PR | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S0031320325000780) | - |
 | 2025 | **Deep Multi-view Clustering with Diverse and Discriminative Feature Learning** | **DDMVC** | PR | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S0031320324010732) |[![](https://img.shields.io/badge/-code-red)](https://github.com/xujunpeng832/DDMVC)|
 | 2025 | **Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion** | **HSACC** | NIPS |  [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2510.13887) | [![](https://img.shields.io/badge/-code-red)](https://github.com/XiaojianDing/2025-NeurIPS-HSACC) |
-| 2025 | **An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic Perspective** | **ESFMC** | ICML |  [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=eLkkXaPFEP) | [![](https://img.shields.io/badge/-code-red)](https://github.com/5Martina5/ESFMC) |
-| 2025 | **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance** | **FIMCFG** | ICML |  [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=7qvYLnJDRd) | [![](https://img.shields.io/badge/-code-red)](https://github.com/PaddiHunter/FIMCFG) |
 | 2025 | **Deep Incomplete Multi-view Learning via Cyclic Permutation of VAEs** | **MVP** | ICLR |  [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2502.11037) | [![](https://img.shields.io/badge/-code-red)](https://openreview.net/forum?id=s4MwstmB8o) |
 | 2025 | **Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning** | **FreeCSL** | CVPR |  [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/zoyadai/2025_CVPR_FreeCSL) |
 | 2025 | **Selective Cross-view Topology for Deep Incomplete Multi-view Clustering** | **SCVT** | TIP | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/11091516/) | [![](https://img.shields.io/badge/-code-red)](https://github.com/dzboop/SCVT)|
@@ -306,7 +306,7 @@ Here's what we've got cooking in the data kitchen:
 
 
 
-## <span id="jump5">📝Citation</span>
+## <span id="jump5">🏷️Citation</span>
 ```
 @inproceedings{li2025aemvc,
   author = {Li, Pengyuan and Liu, Man and Chang, Dongxia and Wang, Yiming and Kong, Zisen and Zhao, Yao},
