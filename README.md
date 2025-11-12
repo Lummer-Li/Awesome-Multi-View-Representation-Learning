@@ -117,7 +117,7 @@ Here's what we've got cooking in the data kitchen:
 | Caltech101-20.mat | 2386 | 6 | 20 | 48/40/254/1984/512/928 | [![](https://img.shields.io/badge/-link-blue)](http://www.vision.caltech.edu/ImageDatasets/Caltech101/) |
 | BDGP.mat | 2500 | 3 | 5 | 1000/500/250 | [![](https://img.shields.io/badge/-link-blue)](https://ranger.uta.edu/heng/Drosophila)|
 | Scene15.mat | 4485 | 3 | 15 | 20/59/40 | [![](https://img.shields.io/badge/-link-blue)](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177) |
-| MNIST_USPS.mat | 5000 | 2 | 10 | 784/784 | [![](https://img.shields.io/badge/-link-blue)](http://yann.lecun.com/exdb/mnist && http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html) |
+| MNIST_USPS.mat | 5000 | 2 | 10 | 784/784 | [![](https://img.shields.io/badge/-link-blue)](http://yann.lecun.com/exdb/mnist) |
 | ALOI100 .mat | 10800 | 4 | 100 | 77/13/64/125 | [![](https://img.shields.io/badge/-link-blue)](https://elki-project.github.io/datasets/multi_view) |
 | STL-10.mat | 13000 | 3 | 10 | 1024/512/2048 | [![](https://img.shields.io/badge/-link-blue)](https://cs.stanford.edu/~acoates/stl10/) |
 | CIFAR10.mat | 50000 | 3 | 10 | 1024/512/2048 | [![](https://img.shields.io/badge/-link-blue)](http://www.cs.toronto.edu/~kriz/cifar.html) |
