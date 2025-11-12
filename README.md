@@ -16,6 +16,7 @@ If you find this repository useful for your research or work, we would greatly a
 - 📚[Papers & Codes & Notes](#jump3)
 - 📁[Datasets](#jump4)
 - 🏷️[Citation](#jump5)
+- 🌸[Acknowledgments](#jump6)
 
 --------------
 
@@ -28,7 +29,7 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 > The impact factors and literature sources in the "Notes" are likely to contain errors due to personal limitations in information collection and collation. These details are provided for reference ONLY and must NOT be used directly for academic citations, formal research, or any critical applications. Please verify all data independently before relying on it.
 
 | Year | Title | Abbreviation | Conference/Journal | Paper | Code | Note |
-|------|------|------|-----------|:----------:|:----------:|:------:|
+|------|------|------|:-----------:|:----------:|:----------:|:------:|
 | 2025 | **LLM-DAMVC：A Large Language Model Assisted Dynamic Agent for Multi-View Clustering** | **LLM-DAMVC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/attachment?id=xgiMK8FtSI&name=pdf) | - | [![](https://img.shields.io/badge/-note-green)](./Notes/LLM-DAMVC.pdf) |
 | 2025 | **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance** | **FIMCFG** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=7qvYLnJDRd) | [![](https://img.shields.io/badge/-code-red)](https://github.com/PaddiHunter/FIMCFG) | - |
 | 2025 | **PROTOCOL: Partial Optimal Transport-enhanced Contrastive Learning for Imbalanced Multi-view Clustering** | **PROTOCOL** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=Pm8LUCx6Mb) | [![](https://img.shields.io/badge/-code-red)](https://github.com/Scarlett125/PROTOCOL) | - |
@@ -97,36 +98,31 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 
 ## <span id="jump4">📁Datasets</span>
 Here's what we've got cooking in the data kitchen:
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px;'>100leaves.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>3sources.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>ALOI.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>ALOI100.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Animal.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>AWA.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>BBC4view.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>BBCSport.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Cifar10.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Cifar100.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>CUB.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>COIL20.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Caltech101-7.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Caltech101-20.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Caltech101.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Citeseer.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Flower17.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>MSRCV1.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>FMNIST.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>NGs.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>ORL.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Prokaryotic.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>UCI-Digit.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Handwritten.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>100Leaves.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>WebKB.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>MNIST-USPS.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>Scene15.mat</div></a>
-- <a href='#'><div style='background-color: #00CED1; color: #ffffff; border-radius: 8px; padding: 12px 16px; width: 36px;'>LandUse-21.mat</div></a>
 
+| Dataset | Samples | Views | Clusters | Dimensions | Resource |
+|------|:------:|:------:|:-----------:|----------|:----------:|
+| MSRCV1.mat | 210 | 6 | 7  | 1302/48/512/100/256/210 | [![](https://img.shields.io/badge/-link-blue)](https://www.cnblogs.com/picassooo/p/12890078.html) |
+| ORL.mat    | 400 | 3 | 40 | 4096/3304/6750         | [![](https://img.shields.io/badge/-link-blue)](https://gitee.com/zhangfk/multi-view-dataset) |
+| NGs.mat    | 500 | 3 | 5  | 2000/2000/2000 | [![](https://img.shields.io/badge/-link-blue)](http://ligmembres.imag.fr/grimal/data.html) |
+| BBCSport.mat | 544 |2 | 5 | 3183/3203 | [![](https://img.shields.io/badge/-link-blue)](http://mlg.ucd.ie/datasets/segment.html) |
+| Prokaryotic.mat | 551 | 3 | 4 | 438/3/393 | [![](https://img.shields.io/badge/-link-blue)](http://lin-group.cn/database/ppd/index.php) |
+| Synthetic3d.mat | 600 | 3 | 3 | 3/3/3 | - |
+| CUB.mat | 600 | 2 | 10 | 1024/300 | [![](https://img.shields.io/badge/-link-blue)](https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf) |
+| 100Leaves.mat | 1600 | 3 | 100 | 64/64/64 | [![](https://img.shields.io/badge/-link-blue)](https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set) |
+| UCI-Digit.mat | 2000 | 3 | 10 | 64/76/216 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets) |
+| HW2sources.mat | 2000 | 2 | 10 | 786/256 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets/Multiple+Features) |
+| Handwritten.mat | 2000 | 6 | 10 | 64/76/216/6/240/47 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets/Multiple+Features) |
+| Mfeat.mat | 2000 | 6 | 10 | 64/76/216/6/240/47 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets/Multiple+Features) |
+
+| LandUse-21.mat | 2100 | 3 | 21 | 20/59/40 | [![](https://img.shields.io/badge/-link-blue)](https://hyper.ai/datasets/5431) |
+| Caltech101-20.mat | 2386 | 6 | 20 | 48/40/254/1984/512/928 | [![](https://img.shields.io/badge/-link-blue)](http://www.vision.caltech.edu/ImageDatasets/Caltech101/) |
+| BDGP.mat | 2500 | 3 | 5 | 1000/500/250 | [![](https://img.shields.io/badge/-link-blue)](https://ranger.uta.edu/heng/Drosophila)|
+| Scene15.mat | 4485 | 3 | 15 | 20/59/40 | [![](https://img.shields.io/badge/-link-blue)](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177) |
+| MNIST_USPS.mat | 5000 | 2 | 10 | 784/784 | [![](https://img.shields.io/badge/-link-blue)](http://yann.lecun.com/exdb/mnist && http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html) |
+| ALOI100 .mat | 10800 | 4 | 100 | 77/13/64/125 | [![](https://img.shields.io/badge/-link-blue)](https://elki-project.github.io/datasets/multi_view) |
+| STL-10.mat | 13000 | 3 | 10 | 1024/512/2048 | [![](https://img.shields.io/badge/-link-blue)](https://cs.stanford.edu/~acoates/stl10/) |
+| CIFAR10.mat | 50000 | 3 | 10 | 1024/512/2048 | [![](https://img.shields.io/badge/-link-blue)](http://www.cs.toronto.edu/~kriz/cifar.html) |
+| CIFAR100.mat | 50000 | 3 | 100 | 1024/512/2048 | [![](https://img.shields.io/badge/-link-blue)](http://www.cs.toronto.edu/~kriz/cifar.html) |
 
 
 
@@ -161,5 +157,6 @@ Here's what we've got cooking in the data kitchen:
 }
 ```
 
-
+## <span id="jump6">🌸Acknowledgments</span>
+☘️ This repository was built with reference to two open-source projects: 📒[jinjiaqi1998/Awesome-Deep-Multi-View-Clustering](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) and 📦[zskong/multi-view-subspace-clustering](https://github.com/zskong/multi-view-subspace-clustering). Their implementation ideas and design provided valuable insights. We appreciate the open-source contributions of their developers — the community's spirit of sharing makes technical exploration more efficient. 🌻
 
