@@ -24,11 +24,11 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 
 
 ## <span id="jump2">📑Surveys</span>
-> ⚠️ Important Note ⚠️
+> ⚠️ **Important Note️.**
 > The impact factors and literature sources in the "Notes" are likely to contain errors due to personal limitations in information collection and collation. These details are provided for reference ONLY and must NOT be used directly for academic citations, formal research, or any critical applications. Please verify all data independently before relying on it.
 
 | Year | Title | Abbreviation | Conference/Journal | Paper | Code | Note |
-|------|------|------|-----------|----------|----------|------|
+|------|------|------|-----------|:----------:|:----------:|:------:|
 | 2025 | **LLM-DAMVC：A Large Language Model Assisted Dynamic Agent for Multi-View Clustering** | **LLM-DAMVC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/attachment?id=xgiMK8FtSI&name=pdf) | - | [![](https://img.shields.io/badge/-note-green)](./Notes/LLM-DAMVC.pdf) |
 | 2025 | **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance** | **FIMCFG** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=7qvYLnJDRd) | [![](https://img.shields.io/badge/-code-red)](https://github.com/PaddiHunter/FIMCFG) | - |
 | 2025 | **PROTOCOL: Partial Optimal Transport-enhanced Contrastive Learning for Imbalanced Multi-view Clustering** | **PROTOCOL** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=Pm8LUCx6Mb) | [![](https://img.shields.io/badge/-code-red)](https://github.com/Scarlett125/PROTOCOL) | - |
@@ -86,7 +86,6 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 | 2020 | **End-to-End Adversarial-Attention Network for Multi-Modal Clustering** | **EAMC** | CVPR | [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content_CVPR_2020/![](https://img.shields.io/badge/-paper-blue)s/Zhou_End-to-End_Adversarial-Attention_Network_for_Multi-Modal_Clustering_CVPR_2020_![](https://img.shields.io/badge/-paper-blue).pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/AllenWrong/mvc) | - |
 | 2020 | **Multi-View Attribute Graph Convolution Networks for Clustering** | **MAGCN** | IJCAI | [![](https://img.shields.io/badge/-paper-blue)](https://www.ijcai.org/proceedings/2020/0411.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/IMKBLE/MAGCN) | - |
 | 2020 | **Deep Embedded Multi-view Clustering with Collaborative Training** | **DEMVC** | IS | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2007.13067.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/SubmissionsIn/DEMVC) | - |
-| 2020 | **One2Multi Graph Autoen![](https://img.shields.io/badge/-code-red)r for Multi-view Graph Clustering** | **O2MVC** | WWW | [![](https://img.shields.io/badge/-paper-blue)](http://shichuan.org/doc/83.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/googlebaba/WWW2020-O2MAC) | - |
 | 2020 | **DIMC-net：Deep Incomplete Multi-view Clustering Network** | **DIMC-net** | ACM MM | [![](https://img.shields.io/badge/-paper-blue)](https://dl.acm.org/doi/10.1145/3394171.3413807) | - | - |
 | 2019 | **COMIC: Multi-view Clustering Without Parameter Selection** | **COMIC** | ICML | [![](https://img.shields.io/badge/-paper-blue)](http://proceedings.mlr.press/v97/peng19a/peng19a.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/limit-scu/2019-ICML-COMIC) | - |
 | 2019 | **Deep Adversarial Multi-view Clustering Network** | **DAMC** | IJCAI | [![](https://img.shields.io/badge/-paper-blue)](https://www.researchgate.net/publication/334844473_Deep_Adversarial_Multi-view_Clustering_Network) | [![](https://img.shields.io/badge/-code-red)](https://github.com/IMKBLE/DAMC) | - |
