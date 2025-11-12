@@ -113,7 +113,6 @@ Here's what we've got cooking in the data kitchen:
 | HW2sources.mat | 2000 | 2 | 10 | 786/256 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets/Multiple+Features) |
 | Handwritten.mat | 2000 | 6 | 10 | 64/76/216/6/240/47 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets/Multiple+Features) |
 | Mfeat.mat | 2000 | 6 | 10 | 64/76/216/6/240/47 | [![](https://img.shields.io/badge/-link-blue)](http://archive.ics.uci.edu/ml/datasets/Multiple+Features) |
-
 | LandUse-21.mat | 2100 | 3 | 21 | 20/59/40 | [![](https://img.shields.io/badge/-link-blue)](https://hyper.ai/datasets/5431) |
 | Caltech101-20.mat | 2386 | 6 | 20 | 48/40/254/1984/512/928 | [![](https://img.shields.io/badge/-link-blue)](http://www.vision.caltech.edu/ImageDatasets/Caltech101/) |
 | BDGP.mat | 2500 | 3 | 5 | 1000/500/250 | [![](https://img.shields.io/badge/-link-blue)](https://ranger.uta.edu/heng/Drosophila)|
