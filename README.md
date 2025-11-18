@@ -29,7 +29,7 @@ Multi-view Representation Learning aims to capture the potential correlations, c
 > The impact factors and literature sources in the "Notes" are likely to contain errors due to personal limitations in information collection and collation. These details are provided for reference ONLY and must NOT be used directly for academic citations, formal research, or any critical applications. Please verify all data independently before relying on it.
 
 | Year | Title | Abbreviation | Conference/Journal | Paper | Code | Note |
-|------|------|------|:-----------:|:----------:|:----------:|:------:|
+|------|------|:------:|:-----------:|:----------:|:----------:|:------:|
 | 2025 | **LLM-DAMVC：A Large Language Model Assisted Dynamic Agent for Multi-View Clustering** | **LLM-DAMVC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/attachment?id=xgiMK8FtSI&name=pdf) | - | [![](https://img.shields.io/badge/-note-green)](./Notes/LLM-DAMVC.pdf) |
 | 2025 | **AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering** | **AEMVC** | ACM MM | [![](https://img.shields.io/badge/-paper-blue)](https://dl.acm.org/doi/10.1145/3746027.3754697) | [![](https://img.shields.io/badge/-code-red)](https://github.com/Lummer-Li/AEMVC) | [![](https://img.shields.io/badge/-note-green)](./Notes/AEMVC.pdf) | 
 | 2025 | **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance** | **FIMCFG** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=7qvYLnJDRd) | [![](https://img.shields.io/badge/-code-red)](https://github.com/PaddiHunter/FIMCFG) | - |
