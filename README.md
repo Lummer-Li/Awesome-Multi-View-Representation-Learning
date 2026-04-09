@@ -154,6 +154,28 @@ Here's what we've got cooking in the data kitchen:
   series = {MM '25}
 }
 
+@article{li2026disentangled,
+  author={Li, Pengyuan and Chang, Dongxia and Wang, Yiming and Kong, Zisen and Kong, Linhua and Zhao, Yao},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance}, 
+  year={2026},
+  pages={1-14},
+  keywords={Semantics;Prototypes;Disentangled representation learning;Contrastive learning;Robustness;Clustering methods;Clustering algorithms;Topology;Data mining;Correlation;Multi-view Clustering;Multi-view Disentanglement;Multi-view Representation Learning;Deep Clustering},
+  doi={10.1109/TKDE.2026.3656269}
+}
+
+@artice{li2026deep,
+  author={Li, Pengyuan and Chang, Dongxia and Wang, Yiming and Liu, Man and Kong, Zisen and Kong, Linhua and Zhao, Yao},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Deep Multi-View Clustering With Intra-View Similarity and Cross-View Correlation Learning}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Multi-view Clustering;Representation Learning;Deep Clustering},
+  doi={10.1109/TMM.2026.3654390}
+}
+
 @article{li2025dcmvc,
   title={DCMVC: Dual contrastive multi-view clustering},
   author={Li, Pengyuan and Chang, Dongxia and Kong, Zisen and Wang, Yiming and Zhao, Yao},
